@@ -3,13 +3,13 @@
 <div>
   
   <h1 align="center">
-    Dev Front-end
+    Desenvolvedor FullStack 
     <br/>
     <a href="https://www.linkedin.com/in/wellington-fernandes-frandim-b6927a189/" target="_blank">Wellington Fernandes Frandim</a>
   </h1>
   
   <p align="center">
-    Desenvolvedor Front End altamente motivado ansioso para iniciar<br/> uma carreira profissional na área de desenvolvimento web.
+    Desenvolvedor FullStack  altamente motivado ansioso para iniciar<br/> uma carreira profissional na área de desenvolvimento web.
     
   </p>
   
